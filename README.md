@@ -1,73 +1,90 @@
 <h1 align="center">Hi 👋, I'm Sabin Pant</h1>
 <h3 align="center">A passionate Full-Stack Developer from Nepal</h3>
 
-I'm a passionate full-stack developer with expertise in **PHP, Laravel, Python, and Java**, dedicated to building practical applications that solve real-world problems. Recently developed a complete **Laravel e-commerce platform** with user authentication, shopping cart, and secure checkout system. My journey focuses on creating efficient, scalable solutions across different domains, from web applications to sophisticated backend systems.
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages:
-• **PHP** 🐘 • **Laravel** 🔥 • **Python** 🐍 • **Java** ☕ • **C/C++** • **HTML** • **CSS** • **JavaScript** 📜
-
-### 🌐 Web Development:
-• **Laravel Framework** • **REST APIs** • **MySQL Database** • **Eloquent ORM** • **Blade Templates** • **Bootstrap**
-
-### ☁️ Cloud & Data:
-• **AWS Cloud** ☁️ • **Data Engineering** 📊 • **Machine Learning** 🤖 • **NLP for ML** 🗣️
-
-### 🔧 Tools & Platforms:
-• **Git & GitHub** 📚 • **VS Code** ⚡ • **Figma** 🎨 • **Composer** • **Arduino IDE** 🔌
-
-### 🗄️ Database:
-• **MySQL** 🐬 • **Oracle DB** 🗃️ • **Database Design** • **ERD Modeling** 📐 • **Query Optimization**
-
-### 🤝 Soft Skills:
-• **Problem-solving** 🧩 • **Team Collaboration** 👥 • **Agile Development** • **Multilingual** 🌍 (English, Nepali)
-
-## 🔥 Featured Project
-
-### 🛒 QuickMart E-commerce Platform (Laravel)
-A full-featured online store built with Laravel featuring:
-- ✅ User authentication & authorization
-- ✅ Product catalog with search & filters  
-- ✅ Shopping cart functionality
-- ✅ Secure checkout process
-- ✅ Order management system
-- ✅ Admin dashboard
-
-**Technologies:** PHP, Laravel, MySQL, Bootstrap, Blade Templates, Git
-
-[View Project →](https://github.com/Sabinpabt23/quickmart)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&layout=compact&theme=radical)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabinpant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabin pant" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AWS+Certified;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- PHP -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<!-- Composer -->
-<a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/> </a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## 🚀 About Me
+
+I'm a **second-year BSc (Hons) Computing student** at Islington College with a passion for building practical software solutions. My journey spans from **backend systems** with PHP/Laravel and Python/Flask to **frontend interfaces**, **database design**, and **cloud technologies**. I enjoy tackling real-world problems through code and continuously expanding my skill set across the software development spectrum.
+
+🔭 **Currently working on:** Enhancing my Laravel e-commerce platform with advanced features  
+🌱 **Currently learning:** Advanced Laravel patterns and cloud architecture  
+💡 **Interests:** Backend development, database optimization, cloud computing, AI/ML integration  
+🎯 **Goal:** To contribute to impactful projects and grow as a professional developer  
+
+## 🏆 Featured Projects
+
+### 🛒 QuickMart E-commerce Platform
+**Laravel | MySQL | Bootstrap | Git**  
+A comprehensive e-commerce solution demonstrating full-stack capabilities:
+- **Backend:** Laravel MVC architecture with Eloquent ORM and middleware security
+- **Frontend:** Responsive UI with Bootstrap and Blade templating
+- **Database:** MySQL with optimized relationships (orders, users, products)
+- **Features:** User auth, product management, shopping cart, checkout system
+
+[➡️ View Project Repository](https://github.com/Sabinpabt23/quickmart)
+
+### 🏋️‍♂️ Gym Management System  
+**Java | GUI | OOP Principles**  
+Desktop application for fitness center management with member tracking and payment processing.
+
+### 💄 Beauty Shop Management  
+**Python | Flask | JSON **  
+Inventory and sales management system.
+
+## 💻 Technical Skills
+
+### **Backend Development**
+- **PHP & Laravel** – MVC architecture, Eloquent ORM, REST APIs, Middleware
+- **Python & Flask** – Web applications, data processing, automation scripts
+- **Java** – Object-oriented programming, GUI development, application logic
+
+### **Frontend Development**
+- **HTML5, CSS3, JavaScript** – Modern web interfaces, DOM manipulation
+- **Bootstrap & Blade** – Responsive design, component-based UI
+- **Figma** – UI/UX design, wireframing, prototyping
+
+### **Database & Data Management**
+- **MySQL & Oracle DB** – Database design, query optimization, normalization
+- **ERD Modeling** – Entity relationship diagrams, schema design
+- **Data Engineering** – AWS data pipelines, ETL processes
+
+### **Cloud & DevOps**
+- **AWS Cloud** – EC2, S3, Lambda, IAM services
+- **Version Control** – Git, GitHub, collaborative workflows
+- **Containerization** – Docker basics, environment management
+
+### **AI/ML Foundations**
+- **Machine Learning** – Supervised/unsupervised learning concepts
+- **NLP & Generative AI** – Text processing, prompt engineering
+- **Data Analysis** – Python libraries (Pandas, NumPy)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sabin's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinpabt23&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Cloud & AI Certifications | Status |
+|---------------------------|--------|
+| AWS Academy – Cloud Foundations | ✅ Certified |
+| AWS Academy – Data Engineering | ✅ Certified |
+| AWS Academy – Machine Learning Foundations | ✅ Certified |
+| AWS Academy – ML for Natural Language Processing | ✅ Certified |
+| AWS Academy – Generative AI Foundations | ✅ Certified |
+| UI/UX Design with Figma | ✅ Certified |
+
+</div>
