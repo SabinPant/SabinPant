@@ -71,17 +71,6 @@ Desktop application for member registration, attendance tracking, and payment ma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinpabt23&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🏅 Certifications
 
@@ -113,9 +102,6 @@ Desktop application for member registration, attendance tracking, and payment ma
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sabinpabt23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   ⚡ *Always building, always learning.* ⚡
