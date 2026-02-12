@@ -3,79 +3,127 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AWS+Certified;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%7C+Flask+%7C+React+Native;AWS+Certified+%287x%29;Next.js+%7C+WordPress+%7C+MERN;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
+---
+
 ## 🚀 About Me
 
-I'm a **second-year BSc (Hons) Computing student** at Islington College with a passion for building practical software solutions. My journey spans from **backend systems** with PHP/Laravel and Python/Flask to **frontend interfaces**, **database design**, and **cloud technologies**. I enjoy tackling real-world problems through code and continuously expanding my skill set across the software development spectrum.
+I'm a **second-year BSc (Hons) Computing student** at Islington College with hands-on experience in **Python/Flask, React Native, Next.js, and AWS Cloud**. I love building practical applications that solve real problems — from inventory management systems to fitness trackers and headless CMS websites.
 
-🔭 **Currently working on:** Enhancing my Laravel e-commerce platform with advanced features  
-🌱 **Currently learning:** Advanced Laravel patterns and cloud architecture  
-💡 **Interests:** Backend development, database optimization, cloud computing, AI/ML integration  
+🔭 **Currently building:** MERN Stack Task Manager  
+🌱 **Currently learning:** MongoDB, Express.js, React, Node.js  
+💡 **Interests:** Full-stack development, Cloud computing, SEO, Mobile apps  
 🎯 **Goal:** To contribute to impactful projects and grow as a professional developer  
+
+---
 
 ## 🏆 Featured Projects
 
-### 🛒 QuickMart E-commerce Platform
-**Laravel | MySQL | Bootstrap | Git**  
-A comprehensive e-commerce solution demonstrating full-stack capabilities:
-- **Backend:** Laravel MVC architecture with Eloquent ORM and middleware security
-- **Frontend:** Responsive UI with Bootstrap and Blade templating
-- **Database:** MySQL with optimized relationships (orders, users, products)
-- **Features:** User auth, product management, shopping cart, checkout system
+### 🏋️‍♂️ Fitness Tracker Mobile App  
+**React Native | Expo | AsyncStorage | React Navigation**  
+Cross-platform fitness tracking app with complete authentication, personalized dashboard, workout streak tracking, and achievement badges.  
+[➡️ View Repository](https://github.com/Sabinpabt23/fitness-tracker)
 
-[➡️ View Project Repository](https://github.com/Sabinpabt23/quickmart)
+### 🚴 Rev & Ride Cycling Magazine  
+**Next.js | WordPress | REST API | CSS Modules**  
+Headless CMS magazine website with dynamic routing, category filtering, and real-time content sync from WordPress. SEO optimized with 96/100 Lighthouse score.  
+[➡️ View Repository](https://github.com/Sabinpabt23/revandride-cycling-magazine)
+
+### 💄 Beauty Shop Management System  
+**Python | Flask | SQLite | HTML/CSS**  
+Full-stack web application for inventory, sales, and restocking management. Includes admin panel with tier-based user system and transaction reporting.  
+[➡️ View Repository](https://github.com/Sabinpabt23/beauty-shop-management)
+
+### 🛒 QuickMart E-commerce Platform  
+**Laravel | MySQL | Bootstrap | MVC**  
+Complete e-commerce solution with user authentication, product catalog, shopping cart, and checkout system.  
+[➡️ View Repository](https://github.com/Sabinpabt23/quickmart)
 
 ### 🏋️‍♂️ Gym Management System  
-**Java | GUI | OOP Principles**  
-Desktop application for fitness center management with member tracking and payment processing.
+**Java | Swing | AWT | MySQL**  
+Desktop application for member registration, attendance tracking, and payment management with intuitive GUI.  
 
-### 💄 Beauty Shop Management  
-**Python | Flask | JSON **  
-Inventory and sales management system.
+---
 
 ## 💻 Technical Skills
 
+### **Mobile Development**
+- 📱 React Native, Expo, AsyncStorage, React Navigation
+
+### **Frontend & CMS**
+- ⚡ Next.js, WordPress, REST API, HTML5, CSS3, Bootstrap
+- 🎨 Responsive Design, CSS Modules, Figma
+
 ### **Backend Development**
-- **PHP & Laravel** – MVC architecture, Eloquent ORM, REST APIs, Middleware
-- **Python & Flask** – Web applications, data processing, automation scripts
-- **Java** – Object-oriented programming, GUI development, application logic
+- 🐍 Python, Flask, Jinja2, SQLite
+- 🐘 PHP, Laravel, Eloquent ORM, Blade
+- 🟢 Node.js, Express.js (learning)
 
-### **Frontend Development**
-- **HTML5, CSS3, JavaScript** – Modern web interfaces, DOM manipulation
-- **Bootstrap & Blade** – Responsive design, component-based UI
-- **Figma** – UI/UX design, wireframing, prototyping
+### **Databases**
+- 🗄️ MySQL, Oracle, SQLite
+- 🍃 MongoDB (learning)
 
-### **Database & Data Management**
-- **MySQL & Oracle DB** – Database design, query optimization, normalization
-- **ERD Modeling** – Entity relationship diagrams, schema design
-- **Data Engineering** – AWS data pipelines, ETL processes
+### **Cloud & AI**
+- ☁️ AWS (EC2, S3, Lambda, IAM) – 5x Certified
+- 🤖 Machine Learning, NLP, Generative AI Foundations
 
-### **Cloud & DevOps**
-- **AWS Cloud** – EC2, S3, Lambda, IAM services
-- **Version Control** – Git, GitHub, collaborative workflows
-- **Containerization** – Docker basics, environment management
+### **Tools & Platforms**
+- 🔧 Git, GitHub, VS Code, Postman, Docker (basics)
 
-### **AI/ML Foundations**
-- **Machine Learning** – Supervised/unsupervised learning concepts
-- **NLP & Generative AI** – Text processing, prompt engineering
-- **Data Analysis** – Python libraries (Pandas, NumPy)
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinpabt23&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🏅 Certifications
 
 <div align="center">
 
-| Cloud & AI Certifications | Status |
-|---------------------------|--------|
-| AWS Academy – Cloud Foundations | ✅ Certified |
-| AWS Academy – Data Engineering | ✅ Certified |
-| AWS Academy – Machine Learning Foundations | ✅ Certified |
-| AWS Academy – ML for Natural Language Processing | ✅ Certified |
-| AWS Academy – Generative AI Foundations | ✅ Certified |
-| UI/UX Design with Figma | ✅ Certified |
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| AWS Academy Cloud Foundations | Amazon Web Services | ✅ |
+| AWS Academy Data Engineering | Amazon Web Services | ✅ |
+| AWS Academy Machine Learning Foundations | Amazon Web Services | ✅ |
+| AWS Academy ML for Natural Language Processing | Amazon Web Services | ✅ |
+| AWS Academy Generative AI Foundations | Amazon Web Services | ✅ |
+| UI/UX Design with Figma | – | ✅ |
 
 </div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sabinpant100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabinpant/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sabinpabt23">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sabinpabt23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⚡ *Always building, always learning.* ⚡
+</p>
