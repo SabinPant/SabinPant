@@ -22,27 +22,23 @@ I'm a **second-year BSc (Hons) Computing student** at Islington College with han
 
 ## 🏆 Featured Projects
 
-### 🏋️‍♂️ Fitness Tracker Mobile App  
+### Fitness Tracker Mobile App  
 **React Native | Expo | AsyncStorage | React Navigation**  
 Cross-platform fitness tracking app with complete authentication, personalized dashboard, workout streak tracking, and achievement badges.  
-[➡️ View Repository](https://github.com/Sabinpabt23/fitness-tracker)
 
-### 🚴 Rev & Ride Cycling Magazine  
+### Rev & Ride Cycling Magazine  
 **Next.js | WordPress | REST API | CSS Modules**  
 Headless CMS magazine website with dynamic routing, category filtering, and real-time content sync from WordPress. SEO optimized with 96/100 Lighthouse score.  
-[➡️ View Repository](https://github.com/Sabinpabt23/revandride-cycling-magazine)
 
-### 💄 Beauty Shop Management System  
+### Beauty Shop Management System  
 **Python | Flask | SQLite | HTML/CSS**  
 Full-stack web application for inventory, sales, and restocking management. Includes admin panel with tier-based user system and transaction reporting.  
-[➡️ View Repository](https://github.com/Sabinpabt23/beauty-shop-management)
 
-### 🛒 QuickMart E-commerce Platform  
+### QuickMart E-commerce Platform  
 **Laravel | MySQL | Bootstrap | MVC**  
 Complete e-commerce solution with user authentication, product catalog, shopping cart, and checkout system.  
-[➡️ View Repository](https://github.com/Sabinpabt23/quickmart)
 
-### 🏋️‍♂️ Gym Management System  
+### Gym Management System  
 **Java | Swing | AWT | MySQL**  
 Desktop application for member registration, attendance tracking, and payment management with intuitive GUI.  
 
@@ -58,7 +54,7 @@ Desktop application for member registration, attendance tracking, and payment ma
 - 🎨 Responsive Design, CSS Modules, Figma
 
 ### **Backend Development**
-- 🐍 Python, Flask, Jinja2, SQLite
+- 🐍 Python, Flask, SQLite
 - 🐘 PHP, Laravel, Eloquent ORM, Blade
 - 🟢 Node.js, Express.js (learning)
 
@@ -112,9 +108,6 @@ Desktop application for member registration, attendance tracking, and payment ma
   </a>
   <a href="https://www.linkedin.com/in/sabinpant/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sabinpabt23">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
