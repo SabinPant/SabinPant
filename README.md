@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%7C+Flask+%7C+React+Native;AWS+Certified+%287x%29;Next.js+%7C+WordPress+%7C+MERN;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Python+%7C+Node.js;Next.js+%7C+Databases+Expertise;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,12 +11,14 @@
 
 ## 🚀 About Me
 
-I'm a **second-year BSc (Hons) Computing student** at Islington College with hands-on experience in **Python/Flask, React Native, Next.js, and AWS Cloud**. I love building practical applications that solve real problems — from inventory management systems to fitness trackers and headless CMS websites.
+I'm a **second-year BSc (Hons) Computing student** at Islington College and a passionate **Full-Stack Developer** focused on building scalable and efficient applications.
 
-🔭 **Currently building:** MERN Stack Task Manager  
-🌱 **Currently learning:** MongoDB, Express.js, React, Node.js  
-💡 **Interests:** Full-stack development, Cloud computing, SEO, Mobile apps  
-🎯 **Goal:** To contribute to impactful projects and grow as a professional developer  
+I work with modern technologies like **Java, Python, Node.js, and Next.js**, along with powerful database systems such as **PostgreSQL, MongoDB, MySQL, and Oracle**. I enjoy turning ideas into real-world projects that solve meaningful problems.
+
+🔭 **Currently building:** Full-Stack Web Applications  
+🌱 **Currently learning:** Advanced Backend Architecture & System Design  
+💡 **Interests:** Full-stack development, Databases, Cloud computing, UI/UX  
+🎯 **Goal:** To become a highly skilled software engineer and contribute to impactful real-world systems  
 
 ---
 
@@ -46,31 +48,24 @@ Desktop application for member registration, attendance tracking, and payment ma
 
 ## 💻 Technical Skills
 
-### **Mobile Development**
-- 📱 React Native, Expo, AsyncStorage, React Navigation
-
-### **Frontend & CMS**
-- ⚡ Next.js, WordPress, REST API, HTML5, CSS3, Bootstrap
-- 🎨 Responsive Design, CSS Modules, Figma
-
-### **Backend Development**
-- 🐍 Python, Flask, SQLite
-- 🐘 PHP, Laravel, Eloquent ORM, Blade
-- 🟢 Node.js, Express.js (learning)
+### **Languages & Frameworks**
+- ☕ Java  
+- 🐍 Python  
+- 🟢 Node.js  
+- ⚡ Next.js  
 
 ### **Databases**
-- 🗄️ MySQL, Oracle, SQLite
-- 🍃 MongoDB (learning)
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+- 🗄️ MySQL  
+- 🏢 Oracle  
 
-### **Cloud & AI**
-- ☁️ AWS (EC2, S3, Lambda, IAM) – 5x Certified
-- 🤖 Machine Learning, NLP, Generative AI Foundations
-
-### **Tools & Platforms**
-- 🔧 Git, GitHub, VS Code, Postman, Docker (basics)
+### **Tools & Technologies**
+- 🔧 Git, GitHub, VS Code  
+- 📡 Postman  
+- 🐳 Docker (Basics)  
 
 ---
-
 
 ## 🏅 Certifications
 
@@ -102,7 +97,6 @@ Desktop application for member registration, attendance tracking, and payment ma
 
 ---
 
-
 <p align="center">
-  ⚡ *Always building, always learning.* ⚡
+  ⚡ <b>Always building, always learning.</b> ⚡
 </p>
