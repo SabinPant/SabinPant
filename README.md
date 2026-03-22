@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Python+%7C+Node.js;Next.js+%7C+Databases+Expertise;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+Python+%7C+Node.js;Next.js+%7C+MERN+Stack;Database+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-I'm a **second-year BSc (Hons) Computing student** at Islington College and a passionate **Full-Stack Developer** focused on building scalable and efficient applications.
+I'm a  (Hons) Computing student at Islington College and a **full-stack developer** passionate about building scalable and real-world applications. I enjoy working across both frontend and backend, turning ideas into functional systems.
 
-I work with modern technologies like **Java, Python, Node.js, and Next.js**, along with powerful database systems such as **PostgreSQL, MongoDB, MySQL, and Oracle**. I enjoy turning ideas into real-world projects that solve meaningful problems.
-
-🔭 **Currently building:** Full-Stack Web Applications  
-🌱 **Currently learning:** Advanced Backend Architecture & System Design  
-💡 **Interests:** Full-stack development, Databases, Cloud computing, UI/UX  
-🎯 **Goal:** To become a highly skilled software engineer and contribute to impactful real-world systems  
+💻 **Tech Focus:** Java, Python, Node.js, Next.js  
+🗄️ **Databases:** PostgreSQL, MongoDB, MySQL, Oracle  
+🔭 **Currently building:** Web application (Banking System, Movies Booking System)
+🌱 **Currently learning:** Advanced backend architecture & system design  
+💡 **Interests:** Full-stack development, system design, databases  
+🎯 **Goal:** To become a highly skilled software engineer and contribute to impactful real-world projects  
 
 ---
 
@@ -26,61 +26,38 @@ I work with modern technologies like **Java, Python, Node.js, and Next.js**, alo
 
 ### Fitness Tracker Mobile App  
 **React Native | Expo | AsyncStorage | React Navigation**  
-Cross-platform fitness tracking app with complete authentication, personalized dashboard, workout streak tracking, and achievement badges.  
+Cross-platform fitness tracking app with authentication, dashboard, workout tracking, and achievements.  
 
 ### Rev & Ride Cycling Magazine  
 **Next.js | WordPress | REST API | CSS Modules**  
-Headless CMS magazine website with dynamic routing, category filtering, and real-time content sync from WordPress. SEO optimized with 96/100 Lighthouse score.  
+Headless CMS website with dynamic routing and SEO optimization.  
 
 ### Beauty Shop Management System  
-**Python | Flask | SQLite | HTML/CSS**  
-Full-stack web application for inventory, sales, and restocking management. Includes admin panel with tier-based user system and transaction reporting.  
-
-### QuickMart E-commerce Platform  
-**Laravel | MySQL | Bootstrap | MVC**  
-Complete e-commerce solution with user authentication, product catalog, shopping cart, and checkout system.  
-
-### Gym Management System  
-**Java | Swing | AWT | MySQL**  
-Desktop application for member registration, attendance tracking, and payment management with intuitive GUI.  
+**Python | Flask | JSON (For Database) | HTML/CSS**  
+Inventory and sales management system with admin features and reporting.  
+  
 
 ---
 
 ## 💻 Technical Skills
 
-### **Languages & Frameworks**
+### **Languages & Backend**
 - ☕ Java  
 - 🐍 Python  
 - 🟢 Node.js  
+
+### **Frontend**
 - ⚡ Next.js  
+- 🌐 HTML, CSS, Bootstrap  
 
 ### **Databases**
 - 🐘 PostgreSQL  
 - 🍃 MongoDB  
 - 🗄️ MySQL  
-- 🏢 Oracle  
+- 🏛️ Oracle  
 
-### **Tools & Technologies**
-- 🔧 Git, GitHub, VS Code  
-- 📡 Postman  
-- 🐳 Docker (Basics)  
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|--------------|--------|--------|
-| AWS Academy Cloud Foundations | Amazon Web Services | ✅ |
-| AWS Academy Data Engineering | Amazon Web Services | ✅ |
-| AWS Academy Machine Learning Foundations | Amazon Web Services | ✅ |
-| AWS Academy ML for Natural Language Processing | Amazon Web Services | ✅ |
-| AWS Academy Generative AI Foundations | Amazon Web Services | ✅ |
-| UI/UX Design with Figma | – | ✅ |
-
-</div>
+### **Tools**
+- 🔧 Git, GitHub, VS Code, Postman  
 
 ---
 
@@ -98,5 +75,5 @@ Desktop application for member registration, attendance tracking, and payment ma
 ---
 
 <p align="center">
-  ⚡ <b>Always building, always learning.</b> ⚡
+  ⚡ *Always building, always learning.* ⚡
 </p>
