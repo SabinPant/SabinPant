@@ -13,12 +13,12 @@
 
 I'm a (Hons) Computing student at Islington College and a **full-stack developer** passionate about building scalable and real-world applications. I enjoy working across both frontend and backend, turning ideas into functional systems.
 
-💻 **Tech Focus:** Java, Python, Node.js, Next.js  
-🗄️ **Databases:** PostgreSQL, MongoDB, MySQL, Oracle  
-🔭 **Currently building:** Web application (Banking System, Movies Booking System)
-🌱 **Currently learning:** Advanced backend architecture & system design  
-💡 **Interests:** Full-stack development, system design, databases  
-🎯 **Goal:** To become a highly skilled software engineer and contribute to impactful real-world projects  
+ **Tech Focus:** Java, Python, Node.js, Next.js  
+ **Databases:** PostgreSQL, MongoDB, MySQL, Oracle  
+ **Currently building:** Web application (Banking System, Movies Booking System)
+ **Currently learning:** Advanced backend architecture & system design  
+ **Interests:** Full-stack development, system design, databases  
+ **Goal:** To become a highly skilled software engineer and contribute to impactful real-world projects  
 
 ---
 
@@ -60,10 +60,10 @@ Inventory and sales management system with admin features and reporting.
 ## 💻 Technical Skills
 
 ### Languages & Backend
-- ☕ Java  
-- 🐍 Python  
-- 🟢 Node.js  
-- 🟡 Express.js  
+-  Java  
+-  Python  
+-  Node.js  
+-  Express.js  
 
 ### Frontend
 - ⚡ Next.js  
