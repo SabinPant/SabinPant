@@ -3,7 +3,10 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2AA9FF&height=200&section=header&text=Sabin%20Pant&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Nepal&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- GitHub Stats Graph -->
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+Python+%7C+Node.js;Next.js+%7C+MERN+Stack;Database+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+
+<!-- GitHub Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinpabt23&theme=react-dark&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
@@ -20,9 +23,9 @@
 
 <div align="center">
 
-| 📅 Coding Since | 🔥 Longest Streak | ⭐ Total Contributions |
-|:-:|:-:|:-:|
-| Jan 2025 | 11 Days | 158 |
+| 📅 Coding Since | 🔥 Current Streak | 🏆 Longest Streak | ⭐ Total Contributions |
+|:-:|:-:|:-:|:-:|
+| Jan 21, 2025 | 3 Days | 11 Days | 158 |
 
 </div>
 
@@ -32,10 +35,10 @@
 
 I'm a **(Hons) Computing student at Islington College** and a **full-stack developer** passionate about building scalable, real-world applications. I enjoy working across both frontend and backend — turning ideas into functional systems.
 
-- **Currently building:** Hospital Management System & Movie Booking System  
-- **Currently learning:** Advanced backend architecture & system design  
-- **Goal:** Become a highly skilled software engineer contributing to impactful real-world projects  
-- **Interests:** Full-stack development, system design, databases  
+- 🔭 **Currently building:** Hospital Management System & Movie Booking System
+- 📚 **Currently learning:** Advanced backend architecture & system design
+- 🎯 **Goal:** Become a highly skilled software engineer contributing to impactful real-world projects
+- ⚡ **Interests:** Full-stack development, system design, databases
 
 ---
 
@@ -99,6 +102,7 @@ I'm a **(Hons) Computing student at Islington College** and a **full-stack devel
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabinpabt23)
 
 </div>
 
