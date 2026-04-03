@@ -31,10 +31,10 @@
 
 I'm a **(Hons) Computing student at Islington College** and a **full-stack developer** passionate about building scalable, real-world applications. I enjoy working across both frontend and backend — turning ideas into functional systems.
 
-- 🔭 **Currently building:** Banking System & Movie Booking System  
-- 📚 **Currently learning:** Advanced backend architecture & system design  
-- 🎯 **Goal:** Become a highly skilled software engineer contributing to impactful real-world projects  
-- ⚡ **Interests:** Full-stack development, system design, databases  
+- **Currently building:** Hospital Management System & Movie Booking System  
+- **Currently learning:** Advanced backend architecture & system design  
+- **Goal:** Become a highly skilled software engineer contributing to impactful real-world projects  
+- **Interests:** Full-stack development, system design, databases  
 
 ---
 
