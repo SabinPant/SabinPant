@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2AA9FF&height=200&section=header&text=Sabin%20Pant&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Nepal&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+Python+%7C+Node.js;Next.js+%7C+MERN+Stack;Database+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 
 <!-- GitHub Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinpabt23&theme=react-dark&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&hide_border=true" />
