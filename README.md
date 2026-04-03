@@ -20,8 +20,9 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sabinpabt23&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+![Commits](https://img.shields.io/badge/Total%20Contributions-158-2AA9FF?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Longest%20Streak-11%20Days-2AA9FF?style=for-the-badge&logo=fire&logoColor=white)
+![Since](https://img.shields.io/badge/Coding%20Since-Jan%202025-2AA9FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
