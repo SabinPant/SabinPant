@@ -20,9 +20,9 @@
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Contributions-158-2AA9FF?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Longest%20Streak-11%20Days-2AA9FF?style=for-the-badge&logo=fire&logoColor=white)
-![Since](https://img.shields.io/badge/Coding%20Since-Jan%202025-2AA9FF?style=for-the-badge&logo=github&logoColor=white)
+| 📅 Coding Since | 🔥 Longest Streak | ⭐ Total Contributions |
+|:-:|:-:|:-:|
+| Jan 2025 | 11 Days | 158 |
 
 </div>
 
