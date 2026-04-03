@@ -21,7 +21,7 @@
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 
 </div>
 
