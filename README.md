@@ -76,7 +76,7 @@ I'm a **(Hons) Computing student at Islington College** and a **full-stack devel
 | AWS Academy Graduate – Machine Learning Foundations | Amazon Web Services |
 | AWS Academy Graduate – Machine Learning for NLP | Amazon Web Services |
 | AWS Academy Graduate – Generative AI Foundations | Amazon Web Services |
-| UI/UX with Figma – Web Design & Prototyping | UI/UX Institute |
+| UI/UX with Figma – Web Design & Prototyping | Islington College |
 
 </div>
 
@@ -88,7 +88,6 @@ I'm a **(Hons) Computing student at Islington College** and a **full-stack devel
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabinpabt23)
 
 </div>
 
