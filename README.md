@@ -12,14 +12,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Stats Row -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=react&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=ffffff&include_all_commits=true&count_private=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&layout=compact&theme=react&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=ffffff&hide_border=false" />
-
-</div>
-
 <!-- Typing SVG -->
 <img width="60%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 
