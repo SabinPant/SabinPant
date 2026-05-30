@@ -19,85 +19,98 @@
 
 ## 👋 About Me
 
-I'm a **(Hons) Computing student at Islington College** and a **full-stack developer** passionate about building scalable, real-world applications. I enjoy working across both frontend and backend — turning ideas into functional systems.
+Most developers jump straight to code. I spend weeks before touching a keyboard.
 
-- 🔭 **Currently building:** Hospital Management System & Movie Booking System
-- 📚 **Currently learning:** Advanced backend architecture & system design
-- 🎯 **Goal:** Become a highly skilled software engineer contributing to impactful real-world projects
-- ⚡ **Interests:** Full-stack development, system design, databases
+Before I write a single line, I define actors and their flows, design the database schema with proper indexing, identify edge cases — race conditions, concurrency issues, data integrity failures — and decide how to solve them upfront rather than discovering them in production. That process isn't extra work. It's the work.
 
----
+I'm currently building a custom Market Simulation Engine as a standalone, independently deployable service — designed from the ground up to be licensable as a B2B API product. Building something intended for commercial use forces a different standard: the architecture has to be clean enough that someone else can consume it, the edge cases have to be solved not deferred, and the system has to work in production not just on localhost.
 
-## 💻 Technical Skills
+That's the bar I hold myself to.
 
-### 🖥️ Languages & Backend
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### ⚡ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+📐 Approach: System design first, code second — always
+☁️ Certified: 5x AWS (Cloud, Data Engineering, ML, NLP, Gen AI)
+🎯 Interests: Backend architecture, distributed systems, B2B product design
+📍 Based in: Kathmandu, Nepal
 
 ---
 
-## 📜 Certifications
+💻 Technical Skills
+🖥️ Languages & Backend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+☕ Core Java (Enterprise)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+⚡ Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🗄️ Databases & Caching
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+☁️ Cloud & Infrastructure
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🔧 Tools & Workflow
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
+📊 GitHub Stats
 <div align="center">
-
-| 🏅 Certification | 🏢 Issued By |
-|:----------------|:------------|
-| AWS Academy Graduate – Cloud Foundations | Amazon Web Services |
-| AWS Academy Graduate – Data Engineering | Amazon Web Services |
-| AWS Academy Graduate – Machine Learning Foundations | Amazon Web Services |
-| AWS Academy Graduate – Machine Learning for NLP | Amazon Web Services |
-| AWS Academy Graduate – Generative AI Foundations | Amazon Web Services |
-| UI/UX with Figma – Web Design & Prototyping | Islington College |
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinpabt23&theme=react-dark&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=react&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=ffffff&hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 </div>
 
----
-
-## 📫 Connect With Me
-
+📜 Certifications
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
-
+🏅 Certification🏢 Issued ByAWS Academy Graduate – Cloud FoundationsAmazon Web ServicesAWS Academy Graduate – Data EngineeringAmazon Web ServicesAWS Academy Graduate – Machine Learning FoundationsAmazon Web ServicesAWS Academy Graduate – Machine Learning for NLPAmazon Web ServicesAWS Academy Graduate – Generative AI FoundationsAmazon Web ServicesUI/UX with Figma – Web Design & PrototypingIslington College
 </div>
 
----
+🏗️ How I Build
+
+I don't start projects — I design systems.
+
+Before any code is written on a serious project, I work through:
+
+Actor definition — who uses the system, what they can do, what they cannot
+Database schema design — tables, relations, indexes, constraints — upfront
+Edge case analysis — concurrency issues, race conditions, failure states, data integrity
+Architecture decisions — layer separation, shared utilities, error handling strategy, security model
+Production readiness — environment parity, graceful shutdown, health checks, deployment pipeline
+
+The result is software that behaves the same in production as it does on localhost, doesn't silently corrupt data under concurrent load, and can be maintained by someone who wasn't there when it was built.
+
+📫 Connect
+<div align="center">
+Show Image
+Show Image
+</div>
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA9FF,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" />
-
-⚡ *Always building, always learning.* ⚡
+Design first. Build second. Ship something that lasts.
+</div>
 
 </div>
