@@ -8,13 +8,28 @@
 
 ## 👋 About Me
 
-I'm a **(Hons) Computing student** — but how I build software is more important to me than what I've studied.
+It started with a game. I wanted to build one, so in high school, I decided to pursue a Computer Science degree. I began with C and C++, and that first taste of building a powerful foundation in programming paradigms and Data Structures & Algorithms (DSA) was addictive. As my curiosity deepened, my interests naturally shifted from gaming to real-world infrastructure—leading me from low-level fundamentals to Java, enterprise backend architecture, and cloud engineering. Every layer I pulled back revealed something more interesting underneath.
 
-Most developers jump straight to code. I spend weeks before touching a keyboard.
+Today, I’m a **(Hons) Computing student** — but how I build software is more important to me than what I've studied. 
 
-Before writing a single line, I define actors and their flows, design the database schema with proper indexing, identify edge cases — race conditions, concurrency issues, data integrity failures — and decide how to solve them upfront rather than discovering them in production. That process isn't extra work. **It's the work.**
+Most developers jump straight to code. I spend weeks planning, preparing, and designing the system. Before writing a single line, I define actors and their flows, design database schemas with proper indexing, and identify edge cases like race conditions, concurrency issues, and data integrity failures. Solving these challenges upfront rather than discovering them in production isn't extra work. **It's the work.**
 
-I'm currently building a custom **Market Simulation Engine** as a standalone, independently deployable service — designed from the ground up to be licensable as a **B2B API product**. Building something intended for commercial use forces a different standard: the architecture has to be clean enough for others to consume, edge cases have to be solved not deferred, and the system has to work in production — not just on localhost.
+---
+
+### 🛠️ Technical Toolkit
+
+I choose tools based on their architecture and capability, building strong foundations across multiple ecosystems:
+
+* **Enterprise Java:** Deeply proficient in core Java, building structured applications utilizing Java Servlets, JSP, the DAO (Data Access Object) pattern, and robust MVC architecture.
+* **Modern JavaScript/TypeScript Ecosystem:** Experienced in building scalable web applications and RESTful/GraphQL APIs using **Node.js**, **NestJS**, and **Next.js**.
+* **Databases & ORMs:** Skilled in relational database design and optimization, working frequently with **PostgreSQL** and **MySQL**, managed efficiently through **Prisma ORM**.
+* **Cloud & Infrastructure:** Hands-on experience architecting scalable, secure, and modern cloud solutions.
+
+---
+
+### 🚀 Current Focus
+
+I'm currently building a custom **Market Simulation Engine** as a standalone, independently deployable service designed from the ground up to be licensable as a **B2B API product**. Building something intended for commercial use forces a different standard: the architecture has to be clean enough for others to consume, edge cases have to be solved not deferred, and the system has to work flawlessly in production, not just on localhost.
 
 That's the bar I hold myself to.
 
