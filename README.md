@@ -83,7 +83,7 @@ That's the bar I hold myself to.
 <div align="center">
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=react&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=ffffff&hide_border=false" />
+
 <img width="49%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 
 </div>
