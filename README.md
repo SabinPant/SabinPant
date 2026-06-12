@@ -41,7 +41,7 @@ const sabin: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&langs_count=8&layout=compact" />
 
 </div>
@@ -66,7 +66,7 @@ const sabin: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sabinpabt23&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+<img src="https://github-trophies.vercel.app/?username=Sabinpabt23&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
 
