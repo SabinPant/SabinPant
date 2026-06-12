@@ -95,46 +95,37 @@ const sabin: Developer = {
 
 ---
 
-## 🚀 Current Build — Nebula
+## 🚀 Latest Project
 
-<div align="center">
+### 💬 Nebula Chat &nbsp;·&nbsp; <a href="https://nebula-chat-seven.vercel.app">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Sabinpabt23/nebula-chat">GitHub</a>
+
+> Production-grade real-time chat with passwordless OTP login, Google OAuth, one-to-one & group messaging, typing indicators, and online presence — built with strict clean architecture.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                       NEBULA PLATFORM  v1.0                             ║
-║              Virtual NEPSE Stock Trading & Learning Platform            ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   Client (React/Vite/TS)                                                 ║
-║        │                                                                 ║
-║        ▼                                                                 ║
-║   API Gateway (NestJS / Express)  ◄──── Auth (JWT + Guards)             ║
-║        │                   │                                            ║
-║        ▼                   ▼                                             ║
-║   Market Simulation    Real-Time Layer (Socket.IO)                       ║
-║   Engine ★             ├── Price Feed Events                            ║
-║   (B2B API Ready)      ├── Portfolio Sync                               ║
-║        │               └── Trade Execution                              ║
-║        ▼                                                                 ║
-║   PostgreSQL + Redis Cache + BullMQ Job Queue                           ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  ★ Market Simulation Engine — standalone licensable B2B API service     ║
-╚══════════════════════════════════════════════════════════════════════════╝
+Client (React/Vite/TS)
+       │
+       ▼
+Express API  ◄──  JWT Auth + Google OAuth + OTP
+       │                    │
+       ▼                    ▼
+  PostgreSQL          Socket.IO ── Redis Pub/Sub
+  (TypeORM)           Real-time delivery, presence, typing
 ```
 
-</div>
-
-> **Why this project matters:** Building something intended for commercial use forces a different standard — the architecture has to be clean enough for others to consume, edge cases must be solved not deferred, and the system must work flawlessly in production, not just on localhost. That's the bar I hold myself to.
-
-| Layer | Stack | Status |
-|:------|:------|:------:|
-| Client | React · Vite · TypeScript · Tailwind | 🔨 In Progress |
-| Backend | NestJS · TypeORM · PostgreSQL | ✅ Complete |
-| Real-Time | Socket.IO · Redis Pub/Sub | ✅ Complete |
-| Jobs | BullMQ · Redis | ✅ Complete |
-| Market Engine | Custom simulation engine | 🔨 In Progress |
-| Infra | Docker · AWS · Cloudinary | 📋 Planned |
+| What | How |
+|:-----|:----|
+| Auth | Passwordless OTP · Google OAuth 2.0 · JWT rotation (15 min access + 7-day httpOnly refresh) |
+| Messaging | DMs · Group chat · Unread badges · Typing indicators · Online presence |
+| Architecture | Strict 3-layer: Controller → Service → Repository. No cross-layer leakage. |
+| Deployed on | Vercel · Render · Neon · Upstash |
 
 ---
 
