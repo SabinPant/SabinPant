@@ -1,92 +1,171 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2AA9FF&height=200&section=header&text=Sabin%20Pant&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20I%20design%20systems%20before%20I%20write%20code&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0f1a35,100:2AA9FF&height=220&section=header&text=Sabin%20Pant&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%94%20I%20design%20systems%20before%20I%20write%20code&descAlignY=60&descSize=17&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=2AA9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+Architecture+%7C+Distributed+Systems;Java+%2F+NestJS+%2F+Node.js+%2F+PostgreSQL;5%C3%97+AWS+Certified+%7C+Cloud+Infrastructure;Building+things+that+don%27t+break+in+production)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2AA9FF?style=flat-square&logo=vercel&logoColor=white)](https://sabinpant.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=Sabinpabt23&style=flat-square&color=2AA9FF&label=Profile+Views)
 
 </div>
 
 ---
 
-## 👋 About Me
+## `whoami`
 
-It started with a game. I wanted to build one, so right out of high school, I decided to pursue a Computer Science degree. I began with C and C++, and that first taste of building a powerful foundation in programming paradigms and Data Structures & Algorithms (DSA) was addictive. As my curiosity deepened, my interests naturally shifted from gaming to real-world infrastructure—leading me from low-level fundamentals to Java, enterprise backend architecture, and cloud engineering. Every layer I pulled back revealed something more interesting underneath.
+```typescript
+const sabin: Developer = {
+  location:      "Kathmandu, Nepal 🇳🇵",
+  education:     "BHons Computing — Islington College × London Metropolitan University",
+  certifications: ["AWS Cloud Foundations", "AWS Data Engineering", "AWS ML Foundations",
+                   "AWS ML for NLP", "AWS Generative AI Foundations"],
+  currentlyBuilding: "Nebula — Virtual NEPSE Stock Trading & Learning Platform",
+  philosophy:    "System design first. Code second. Ship something that lasts.",
+  interests:     ["Backend Architecture", "Distributed Systems", "B2B Product Design"],
+};
+```
 
-Today, I’m a **(Hons) Computing student** — but how I build software is more important to me than what I've studied. 
-
----
-
-## 🚀 Current Focus
-
-I'm currently building a custom **Market Simulation Engine** as a standalone, independently deployable service designed from the ground up to be licensable as a **B2B API product**. Building something intended for commercial use forces a different standard: the architecture has to be clean enough for others to consume, edge cases have to be solved not deferred, and the system has to work flawlessly in production, not just on localhost.
-
-That's the bar I hold myself to.
-
-- 🔭 **Currently building:** Nebula — Virtual NEPSE Stock Trading & Learning Platform
-- 📐 **Approach:** System design first, code second — always
-- ☁️ **Certified:** 5x AWS (Cloud, Data Engineering, ML, NLP, Gen AI)
-- 🎯 **Interests:** Backend architecture, distributed systems, B2B product design
-- 📍 **Based in:** Kathmandu, Nepal
+> It started with a game. I wanted to build one — so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
+>
+> Today, I hold myself to a production standard: software that behaves the same on `localhost` as it does in prod, doesn't silently corrupt data under concurrent load, and can be maintained by someone who wasn't in the room when it was built.
 
 ---
 
-## 💻 Technical Skills
-
-### 🖥️ Languages & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### ☕ Core Java (Enterprise)
-![JSP](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DAO Pattern](https://img.shields.io/badge/DAO%20Pattern-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Filter & Listener](https://img.shields.io/badge/Filter%20%26%20Listener-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=react&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&langs_count=8&layout=compact" />
 
 </div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=dark&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinpabt23&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&area_color=2AA9FF&hide_border=false&border_color=2AA9FF&theme=github-compact" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Trophy Shelf
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sabinpabt23&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Backend Runtime
+<img src="https://skillicons.dev/icons?i=java,nodejs,python,cpp,typescript,javascript&theme=dark" />
+
+### Frameworks & Architecture
+<img src="https://skillicons.dev/icons?i=spring,nestjs,express,react,nextjs,tailwind&theme=dark" />
+
+### Databases, Caching & Queues
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,oracle,prisma&theme=dark" />
+
+### Cloud, Infra & Tooling
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode&theme=dark" />
+
+### Design & Workflow
+<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Current Build — Nebula
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                       NEBULA PLATFORM  v1.0                             ║
+║              Virtual NEPSE Stock Trading & Learning Platform            ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   Client (React/Vite/TS)                                                 ║
+║        │                                                                 ║
+║        ▼                                                                 ║
+║   API Gateway (NestJS / Express)  ◄──── Auth (JWT + Guards)             ║
+║        │                   │                                            ║
+║        ▼                   ▼                                             ║
+║   Market Simulation    Real-Time Layer (Socket.IO)                       ║
+║   Engine ★             ├── Price Feed Events                            ║
+║   (B2B API Ready)      ├── Portfolio Sync                               ║
+║        │               └── Trade Execution                              ║
+║        ▼                                                                 ║
+║   PostgreSQL + Redis Cache + BullMQ Job Queue                           ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ★ Market Simulation Engine — standalone licensable B2B API service     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> **Why this project matters:** Building something intended for commercial use forces a different standard — the architecture has to be clean enough for others to consume, edge cases must be solved not deferred, and the system must work flawlessly in production, not just on localhost. That's the bar I hold myself to.
+
+| Layer | Stack | Status |
+|:------|:------|:------:|
+| Client | React · Vite · TypeScript · Tailwind | 🔨 In Progress |
+| Backend | NestJS · TypeORM · PostgreSQL | ✅ Complete |
+| Real-Time | Socket.IO · Redis Pub/Sub | ✅ Complete |
+| Jobs | BullMQ · Redis | ✅ Complete |
+| Market Engine | Custom simulation engine | 🔨 In Progress |
+| Infra | Docker · AWS · Cloudinary | 📋 Planned |
+
+---
+
+## 🏗️ How I Build
+
+> I don't start projects. I design systems.
+
+Before a single line is committed on any serious build, I work through:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  PHASE 1 — DESIGN                                           │
+│                                                             │
+│  01  Actor Definition      Who uses it, what they can do,  │
+│                            what they absolutely cannot      │
+│                                                             │
+│  02  Schema Design         Tables, relations, indexes,      │
+│                            constraints — decided upfront    │
+│                                                             │
+│  03  Edge Case Analysis    Concurrency, race conditions,    │
+│                            failure states, data integrity   │
+│                                                             │
+│  04  Architecture          Layer separation, shared utils,  │
+│                            error handling, security model   │
+├─────────────────────────────────────────────────────────────┤
+│  PHASE 2 — BUILD                                            │
+│                                                             │
+│  05  Production Readiness  Env parity, graceful shutdown,  │
+│                            health checks, deploy pipeline  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -94,32 +173,29 @@ That's the bar I hold myself to.
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issued By |
-|:----------------|:------------|
-| AWS Academy Graduate – Cloud Foundations | Amazon Web Services |
-| AWS Academy Graduate – Data Engineering | Amazon Web Services |
-| AWS Academy Graduate – Machine Learning Foundations | Amazon Web Services |
-| AWS Academy Graduate – Machine Learning for NLP | Amazon Web Services |
-| AWS Academy Graduate – Generative AI Foundations | Amazon Web Services |
-| UI/UX with Figma – Web Design & Prototyping | Islington College |
+| Certification | Issued By | Domain |
+|:-------------|:----------|:------:|
+| AWS Academy Graduate — Cloud Foundations | Amazon Web Services | ☁️ Cloud |
+| AWS Academy Graduate — Data Engineering | Amazon Web Services | 📊 Data |
+| AWS Academy Graduate — Machine Learning Foundations | Amazon Web Services | 🤖 ML |
+| AWS Academy Graduate — Machine Learning for NLP | Amazon Web Services | 🗣️ NLP |
+| AWS Academy Graduate — Generative AI Foundations | Amazon Web Services | ✨ GenAI |
+| UI/UX with Figma — Web Design & Prototyping | Islington College | 🎨 Design |
 
 </div>
 
 ---
 
-## 🏗️ How I Build
+## 📈 Contribution Summary
 
-> I don't start projects — I design systems.
+<div align="center">
 
-Before any code is written on a serious project, I work through:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabinpabt23&theme=github_dark" width="95%"/>
 
-- **Actor definition** — who uses the system, what they can do, what they cannot
-- **Database schema design** — tables, relations, indexes, constraints — upfront
-- **Edge case analysis** — concurrency issues, race conditions, failure states, data integrity
-- **Architecture decisions** — layer separation, shared utilities, error handling strategy, security model
-- **Production readiness** — environment parity, graceful shutdown, health checks, deployment pipeline
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabinpabt23&theme=github_dark" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabinpabt23&theme=github_dark" width="46%"/>
 
-The result is software that behaves the same in production as it does on localhost, doesn't silently corrupt data under concurrent load, and can be maintained by someone who wasn't there when it was built.
+</div>
 
 ---
 
@@ -127,8 +203,17 @@ The result is software that behaves the same in production as it does on localho
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
+<a href="https://www.linkedin.com/in/sabinpant/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sabinpant100@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design%20first.%20Build%20second.%20Ship%20something%20that%20lasts.&author=Sabin%20Pant" />
 
 </div>
 
@@ -136,8 +221,8 @@ The result is software that behaves the same in production as it does on localho
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA9FF,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA9FF,50:0f1a35,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-*Design first. Build second. Ship something that lasts.*
+<sub>Designed with intention · Built for production · Maintained with care</sub>
 
 </div>
