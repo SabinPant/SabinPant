@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2AA9FF?style=flat-square&logo=vercel&logoColor=white)](https://sabinpant.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2AA9FF?style=flat-square&logo=vercel&logoColor=white)](https://sabin-portfolio-hazel.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sabinpabt23&style=flat-square&color=2AA9FF&label=Profile+Views)
 
 </div>
@@ -31,7 +31,7 @@ const sabin: Developer = {
 };
 ```
 
-> It started with a game. I wanted to build one — so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
+> It started with a game. I wanted to build one so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
 >
 > Today, I hold myself to a production standard: software that behaves the same on `localhost` as it does in prod, doesn't silently corrupt data under concurrent load, and can be maintained by someone who wasn't in the room when it was built.
 
