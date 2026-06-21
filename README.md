@@ -128,7 +128,7 @@ Before a single line is committed on any serious build, I work through:
 ┌─────────────────────────────────────────────────────────────┐
 │  PHASE 1 — DESIGN                                           │
 │                                                             │
-│  01  Actor Definition      Who uses it, what they can do,  │
+│  01  Actor Definition      Who uses it, what they can do,   │
 │                            what they absolutely cannot      │
 │                                                             │
 │  02  Schema Design         Tables, relations, indexes,      │
@@ -142,8 +142,8 @@ Before a single line is committed on any serious build, I work through:
 ├─────────────────────────────────────────────────────────────┤
 │  PHASE 2 — BUILD                                            │
 │                                                             │
-│  05  Production Readiness  Env parity, graceful shutdown,  │
-│                            health checks, deploy pipeline  │
+│  05  Production Readiness  Env parity, graceful shutdown,   │
+│                            health checks, deploy pipeline   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
