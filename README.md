@@ -61,16 +61,6 @@ const sabin: Developer = {
 
 ---
 
-## 🏆 Trophy Shelf
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=Sabinpabt23&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
