@@ -18,7 +18,7 @@
 
 ## `whoami`
 
-\`\`\`typescript
+```typescript
 const sabin: Developer = {
   location:      "Kathmandu, Nepal 🇳🇵",
   education:     "BHons Computing — Islington College × London Metropolitan University",
@@ -28,7 +28,7 @@ const sabin: Developer = {
   philosophy:    "System design first. Code second. Ship something that lasts.",
   interests:     ["Backend Architecture", "Distributed Systems", "B2B Product Design"],
 };
-\`\`\`
+```
 
 > It started with a game. I wanted to build one so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
 >
@@ -98,7 +98,7 @@ const sabin: Developer = {
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-\`\`\`
+```
 Client (React/Vite/TS)
        │
        ▼
@@ -107,7 +107,7 @@ Express API  ◄──  JWT Auth + Google OAuth + OTP
        ▼                    ▼
   PostgreSQL          Socket.IO ── Redis Pub/Sub
   (TypeORM)           Real-time delivery, presence, typing
-\`\`\`
+```
 
 | What | How |
 |:-----|:----|
@@ -124,28 +124,28 @@ Express API  ◄──  JWT Auth + Google OAuth + OTP
 
 Before a single line is committed on any serious build, I work through:
 
-\`\`\`
+```
 ┌─────────────────────────────────────────────────────────────┐
-│  PHASE 1 — DESIGN                                           │
-│                                                             │
-│  01  Actor Definition      Who uses it, what they can do,   │
-│                            what they absolutely cannot      │
-│                                                             │
-│  02  Schema Design         Tables, relations, indexes,      │
-│                            constraints — decided upfront    │
-│                                                             │
-│  03  Edge Case Analysis    Concurrency, race conditions,    │
-│                            failure states, data integrity   │
-│                                                             │
-│  04  Architecture          Layer separation, shared utils,  │
-│                            error handling, security model   │
+│  PHASE 1 — DESIGN                                            │
+│                                                                │
+│  01  Actor Definition      Who uses it, what they can do,    │
+│                             what they absolutely cannot       │
+│                                                                │
+│  02  Schema Design         Tables, relations, indexes,       │
+│                             constraints — decided upfront     │
+│                                                                │
+│  03  Edge Case Analysis    Concurrency, race conditions,     │
+│                             failure states, data integrity    │
+│                                                                │
+│  04  Architecture          Layer separation, shared utils,   │
+│                             error handling, security model    │
 ├─────────────────────────────────────────────────────────────┤
-│  PHASE 2 — BUILD                                            │
-│                                                             │
-│  05  Production Readiness  Env parity, graceful shutdown,   │
-│                            health checks, deploy pipeline   │
+│  PHASE 2 — BUILD                                              │
+│                                                                │
+│  05  Production Readiness  Env parity, graceful shutdown,    │
+│                             health checks, deploy pipeline    │
 └─────────────────────────────────────────────────────────────┘
-\`\`\`
+```
 
 ---
 
