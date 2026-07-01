@@ -18,7 +18,7 @@
 
 ## `whoami`
 
-```typescript
+\`\`\`typescript
 const sabin: Developer = {
   location:      "Kathmandu, Nepal 🇳🇵",
   education:     "BHons Computing — Islington College × London Metropolitan University",
@@ -28,7 +28,7 @@ const sabin: Developer = {
   philosophy:    "System design first. Code second. Ship something that lasts.",
   interests:     ["Backend Architecture", "Distributed Systems", "B2B Product Design"],
 };
-```
+\`\`\`
 
 > It started with a game. I wanted to build one so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
 >
@@ -40,14 +40,14 @@ const sabin: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabinpabt23&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinpabt23&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&langs_count=8&layout=compact" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SabinPant&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinPant&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&langs_count=8&layout=compact" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Sabinpabt23&theme=dark&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=SabinPant&theme=dark&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
 
 </div>
 
@@ -55,7 +55,7 @@ const sabin: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinpabt23&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&area_color=2AA9FF&hide_border=false&border_color=2AA9FF&theme=github-compact" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabinPant&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&area_color=2AA9FF&hide_border=false&border_color=2AA9FF&theme=github-compact" width="95%" />
 
 </div>
 
@@ -86,7 +86,7 @@ const sabin: Developer = {
 
 ## 🚀 Latest Project
 
-### 💬 Nebula Chat &nbsp;·&nbsp; <a href="https://nebula-chat-seven.vercel.app">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Sabinpabt23/nebula-chat">GitHub</a>
+### 💬 Nebula Chat &nbsp;·&nbsp; <a href="https://nebula-chat-seven.vercel.app">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/SabinPant/nebula-chat">GitHub</a>
 
 > Production-grade real-time chat with passwordless OTP login, Google OAuth, one-to-one & group messaging, typing indicators, and online presence — built with strict clean architecture.
 
@@ -98,7 +98,7 @@ const sabin: Developer = {
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-```
+\`\`\`
 Client (React/Vite/TS)
        │
        ▼
@@ -107,7 +107,7 @@ Express API  ◄──  JWT Auth + Google OAuth + OTP
        ▼                    ▼
   PostgreSQL          Socket.IO ── Redis Pub/Sub
   (TypeORM)           Real-time delivery, presence, typing
-```
+\`\`\`
 
 | What | How |
 |:-----|:----|
@@ -124,7 +124,7 @@ Express API  ◄──  JWT Auth + Google OAuth + OTP
 
 Before a single line is committed on any serious build, I work through:
 
-```
+\`\`\`
 ┌─────────────────────────────────────────────────────────────┐
 │  PHASE 1 — DESIGN                                           │
 │                                                             │
@@ -145,7 +145,7 @@ Before a single line is committed on any serious build, I work through:
 │  05  Production Readiness  Env parity, graceful shutdown,   │
 │                            health checks, deploy pipeline   │
 └─────────────────────────────────────────────────────────────┘
-```
+\`\`\`
 
 ---
 
@@ -170,10 +170,10 @@ Before a single line is committed on any serious build, I work through:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabinpabt23&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabinPant&theme=github_dark" width="95%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabinpabt23&theme=github_dark" width="46%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabinpabt23&theme=github_dark" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabinPant&theme=github_dark" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabinPant&theme=github_dark" width="46%"/>
 
 </div>
 
