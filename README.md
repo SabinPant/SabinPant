@@ -30,20 +30,13 @@ const sabin: Developer = {
 };
 ```
 
-> It started with a game. I wanted to build one so right out of high school, I dove into C and C++, data structures, and algorithms. That foundation pulled me deeper: from low-level primitives to Java enterprise architecture to cloud infrastructure. Every layer I pulled back revealed something more interesting underneath.
+> Honestly? I just wanted to build a game. That rabbit hole led me through C/C++, then Java, and somehow I ended up obsessed with backend systems instead. Turns out I like the plumbing more than the graphics.
 >
-> Today, I hold myself to a production standard: software that behaves the same on `localhost` as it does in prod, doesn't silently corrupt data under concurrent load, and can be maintained by someone who wasn't in the room when it was built.
+> These days my thing is making sure code that works on my laptop also works when real people are hammering it at 2am. No surprises in prod, please.
 
 ---
 
 ## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SabinPant&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&icon_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&ring_color=2AA9FF&hide_border=false" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinPant&theme=github_dark&bg_color=0d1117&border_color=2AA9FF&title_color=2AA9FF&text_color=c9d1d9&langs_count=8&layout=compact" />
-
-</div>
 
 <div align="center">
 
@@ -72,7 +65,7 @@ const sabin: Developer = {
 <img src="https://skillicons.dev/icons?i=spring,nestjs,express,react,nextjs,tailwind&theme=dark" />
 
 ### Databases, Caching & Queues
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,oracle,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
 
 ### Cloud, Infra & Tooling
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,vscode&theme=dark" />
@@ -126,24 +119,24 @@ Before a single line is committed on any serious build, I work through:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  PHASE 1 — DESIGN                                            │
-│                                                                │
-│  01  Actor Definition      Who uses it, what they can do,    │
-│                             what they absolutely cannot       │
-│                                                                │
-│  02  Schema Design         Tables, relations, indexes,       │
-│                             constraints — decided upfront     │
-│                                                                │
-│  03  Edge Case Analysis    Concurrency, race conditions,     │
-│                             failure states, data integrity    │
-│                                                                │
-│  04  Architecture          Layer separation, shared utils,   │
-│                             error handling, security model    │
+│  PHASE 1 — DESIGN                                           │
+│                                                             │
+│  01  Actor Definition      Who uses it, what they can do,   │
+│                             what they absolutely cannot     │
+│                                                             │
+│  02  Schema Design         Tables, relations, indexes,      │
+│                             constraints — decided upfront   │
+│                                                             │
+│  03  Edge Case Analysis    Concurrency, race conditions,    │
+│                             failure states, data integrity  │
+│                                                             │
+│  04  Architecture          Layer separation, shared utils,  │
+│                             error handling, security model  │
 ├─────────────────────────────────────────────────────────────┤
-│  PHASE 2 — BUILD                                              │
-│                                                                │
-│  05  Production Readiness  Env parity, graceful shutdown,    │
-│                             health checks, deploy pipeline    │
+│  PHASE 2 — BUILD                                            │
+│                                                             │
+│  05  Production Readiness  Env parity, graceful shutdown,   │
+│                             health checks, deploy pipeline  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
