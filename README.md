@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinpant/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sabinpant100@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2AA9FF?style=flat-square&logo=vercel&logoColor=white)](https://sabin-portfolio-hazel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2AA9FF?style=flat-square&logo=vercel&logoColor=white)](https://sabinpant.com.np/)
 
 </div>
 
