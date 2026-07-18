@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?![Sabin's Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0f1a35,100:2AA9FF&height=220&section=header&text=Sabin%20Pant&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%94%20Drawing%20up%20blueprints%20so%20the%20code%20actually%20works.&descAlignY=60&descSize=17&animation=fadeIn"
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0e1a,60:0f1a35,100:2AA9FF&height=220&section=header&text=Sabin%20Pant&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%94%20Drawing%20up%20blueprints%20so%20the%20code%20actually%20works.&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <br/>
 
