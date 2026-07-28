@@ -40,14 +40,6 @@ const sabin: Developer = {
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=SabinPant&theme=dark&background=0d1117&border=2AA9FF&stroke=2AA9FF&ring=2AA9FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2AA9FF&sideLabels=2AA9FF&dates=888888" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabinPant&bg_color=0d1117&color=2AA9FF&line=2AA9FF&point=ffffff&area=true&area_color=2AA9FF&hide_border=false&border_color=2AA9FF&theme=github-compact" width="95%" />
 
 </div>
@@ -77,45 +69,9 @@ const sabin: Developer = {
 
 ---
 
-## 🚀 Latest Project
-
-### 💬 Nebula Chat &nbsp;·&nbsp; <a href="https://nebula-chat-seven.vercel.app">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/SabinPant/nebula-chat">GitHub</a>
-
-> Production-grade real-time chat with passwordless OTP login, Google OAuth, one-to-one & group messaging, typing indicators, and online presence — built with strict clean architecture.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-```
-Client (React/Vite/TS)
-       │
-       ▼
-Express API  ◄──  JWT Auth + Google OAuth + OTP
-       │                    │
-       ▼                    ▼
-  PostgreSQL          Socket.IO ── Redis Pub/Sub
-  (TypeORM)           Real-time delivery, presence, typing
-```
-
-| What | How |
-|:-----|:----|
-| Auth | Passwordless OTP · Google OAuth 2.0 · JWT rotation (15 min access + 7-day httpOnly refresh) |
-| Messaging | DMs · Group chat · Unread badges · Typing indicators · Online presence |
-| Architecture | Strict 3-layer: Controller → Service → Repository. No cross-layer leakage. |
-| Deployed on | Vercel · Render · Neon · Upstash |
-
----
-
 ## 🏗️ How I Build
 
-> I don't start projects. I design systems.
-
-Before a single line is committed on any serious build, I work through:
+> Before a single line is committed on any serious build, I work through:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
